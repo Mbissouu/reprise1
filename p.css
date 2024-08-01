@@ -1,0 +1,32 @@
+
+.centered-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.App {
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 5px 0;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.btn-sm {
+  padding: .25rem .5rem;
+  font-size: .875rem;
+  line-height: 1.5;
+  border-radius: .2rem;
+}
